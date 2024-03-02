@@ -1,0 +1,10 @@
+name =str(input("Name:"))
+classe=str(input("Class:"))
+Subject = str(input("Subject :"))
+Marks = input("Marks:")
+
+print("Mewar Institute Of management")
+print("name is :",name)
+print("class is :",classe)
+print("subject is :",Subject)
+print("marks is :",Marks)
