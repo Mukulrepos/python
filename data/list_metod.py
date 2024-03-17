@@ -17,3 +17,4 @@ print(network_data_list.index(3))
 
 # it use the count the how many time the repeat the a number in list 
 print(network_data_list.count(4)) 
+

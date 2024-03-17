@@ -1,21 +1,12 @@
-marks = [1, 2, 4, 5,7, 6]
-print(marks)
-print(marks[3])
-print(marks.append(544))  # add the at end of the array list
-print(marks) 
-print(marks[len(marks) - 4])  # it simply to 5 -4 = 1 index and value is 2
+commandline = [1, 200, 3, 4, 500, 6, 7, 8, 9]
+print(commandline)
 
 
-# searh the elemets or not 
-if 7 in marks:
-    print("yes")
-else:
-    print("no")
-    
-    
-print(marks[1:6:2])
-
-
-
-
+# kisi bhi line ka  list ka last vaiable ma value input dena
+# used only append
+# commandline.append(90)
+# commandline.sort()
+# commandline.reverse()
+# commandline.index(200)
+print(commandline.index(200))
 
