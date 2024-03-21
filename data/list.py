@@ -25,3 +25,9 @@ print(commandline.index(200))
 
 #  you can change the value in python using the = it gone a refernce 
 print(quick_sort(commandline))
+
+
+
+m=[100,200,300]
+commandline.extend(m)
+print(quick_sort(commandline))
