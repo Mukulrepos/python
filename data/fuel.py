@@ -1,0 +1,1 @@
+print(" fuel is give the sensor data ")
