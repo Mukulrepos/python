@@ -1,0 +1,14 @@
+mutable data type in python
+
+list ->[],alow duplicate
+set -> unordered,{},not allow duplicate
+
+dictionary -> unordered, {},not allow duplicate
+
+
+
+inmutable data type in python
+
+Number
+Strings -> ordered / indexed , alow duplicate,
+Tuple  -> allow duplicate ,()
