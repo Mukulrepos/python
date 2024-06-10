@@ -89,4 +89,19 @@ fruit.append("Orange")
 print("after append ", len(fruit))
 
 
-#
+# List comprehension
+seperate_fruit=[]
+for i in fruit:
+    if "a" in i:
+        seperate_fruit.append(i)
+        
+print(seperate_fruit)
+
+
+#  you can convert any list in single for some funn (:->)>
+
+your_love_thing= ["Salon" for x in fruit]
+print(your_love_thing)
+
+
+#  thank you 
